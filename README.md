@@ -2,15 +2,15 @@
 
 **Extreme** is a powerful and modern DLL or for Windows. It supports advanced ion methods including Manual Mapping, Stealth ion, and more, making it suitable for game modding and development.
 
-<img width="103" height="95" alt="image" src="https://github.com/user-attachments/assets/7df6fd1c-1ee0-459f-8edb-2734e8ef830c" />
+
+<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/eac10536-5e5e-42f1-859c-422289acf5b7" />
 
 
 ## Install
 [Download `Extremeor.zip`](https://github.com/Salarr/Extremeor/releases/latest/download/Extremeor.zip)
 ---
 
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/eac10536-5e5e-42f1-859c-422289acf5b7" />
-
+<img width="403" height="315" alt="image" src="https://github.com/user-attachments/assets/c1286304-5083-4104-93fa-8583395a8d46" />
 
 ---
 ## Key Features
